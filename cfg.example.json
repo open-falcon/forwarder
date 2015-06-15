@@ -1,0 +1,14 @@
+{
+    "debug": true,
+    "transfer": {
+        "enabled": true,
+        "addr": "127.0.0.1:8433",
+        "interval": 60,
+        "timeout": 1000
+    },
+    "http": {
+        "enabled": true,
+        "listen": ":1988"
+    },
+    "attachTags": "a=b,c=d"
+}

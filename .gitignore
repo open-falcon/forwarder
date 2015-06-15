@@ -1,0 +1,10 @@
+*.swp
+*.swo
+/cfg.json
+/var
+/falcon-forwarder*
+.DS_Store
+*.iml
+*.idea
+/gitversion
+
