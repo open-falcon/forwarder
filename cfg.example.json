@@ -8,7 +8,7 @@
     },
     "http": {
         "enabled": true,
-        "listen": ":1988"
+        "listen": ":1989"
     },
-    "attachTags": "a=b,c=d"
+    "attachTags": ""
 }
